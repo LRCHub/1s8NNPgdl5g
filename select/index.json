@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "セカイはまだ始まってすらいない",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-02-21T17:17:58.396273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/01_セカイはまだ始まってすらいない_(feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/02_セカイはまだ始まってすらいない_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "ワンダーランズ×ショウタイム feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク",
+      "has_synced": true,
+      "path": "select/03_セカイはまだ始まってすらいない_ワンダーランズ×ショウタイム_feat._天馬司&鳳えむ&草薙寧々&神代類&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "天馬司 (廣瀬大介), 鳳えむ (木野日菜), 草薙寧々 (Machico), 神代類 (土岐隼一), 初音ミク",
+      "has_synced": false,
+      "path": "select/04_セカイはまだ始まってすらいない_天馬司_(廣瀬大介),_鳳えむ_(木野日菜),_草薙寧々_(Machico),_神代類_(土岐隼一),_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/05_セカイはまだ始まってすらいない_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない (instrumental)",
+      "artist": "天馬司 (廣瀬大介), 鳳えむ (木野日菜), 草薙寧々 (Machico), 神代類 (土岐隼一), 初音ミク",
+      "has_synced": false,
+      "path": "select/06_セカイはまだ始まってすらいない_(instrumental)_天馬司_(廣瀬大介),_鳳えむ_(木野日菜),_草薙寧々_(Machico),_神代類_(土岐隼一),_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "天馬司",
+      "has_synced": false,
+      "path": "select/07_セカイはまだ始まってすらいない_天馬司.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "鳳えむ",
+      "has_synced": false,
+      "path": "select/08_セカイはまだ始まってすらいない_鳳えむ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "セカイはまだ始まってすらいない (LOVE remix)",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/09_セカイはまだ始まってすらいない_(LOVE_remix)_ピノキオピー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セカイはまだ始まってすらいない",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_セカイはまだ始まってすらいない_ピノキオピー.txt"
+    }
+  ]
+}
